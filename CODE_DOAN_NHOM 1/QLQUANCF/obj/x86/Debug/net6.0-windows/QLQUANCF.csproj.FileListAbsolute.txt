@@ -1,0 +1,563 @@
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.exe
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll.config
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.deps.json
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.runtimeconfig.json
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAccountProfile.resources
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAdmin.resources
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fForget.resources
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.flogin.resources
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTableManager.resources
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CopyComplete
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\refint\QLQUANCF.dll
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\ref\QLQUANCF.dll
+C:\Users\Admin\Desktop\DO AN CNPM\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.exe
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll.config
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.deps.json
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.runtimeconfig.json
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAccountProfile.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAdmin.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fForget.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.flogin.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTableManager.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CopyComplete
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\refint\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ án 3-12\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\ref\QLQUANCF.dll
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.exe
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll.config
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.deps.json
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.runtimeconfig.json
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAccountProfile.resources
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAdmin.resources
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fForget.resources
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.flogin.resources
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTableManager.resources
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.Properties.Resources.resources
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfo.cs
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CopyComplete
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\refint\QLQUANCF.dll
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.genruntimeconfig.cache
+C:\Users\Admin\Desktop\clone\DO_AN-\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\ref\QLQUANCF.dll
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAccountProfile.resources
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAdmin.resources
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fForget.resources
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.flogin.resources
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTableManager.resources
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.Properties.Resources.resources
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\refint\QLQUANCF.dll
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.exe
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll.config
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.deps.json
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.runtimeconfig.json
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CopyComplete
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DO_AN_CNPM\DO_AN\DOAN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\ref\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.exe
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll.config
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.deps.json
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.runtimeconfig.json
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAccountProfile.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAdmin.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fForget.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.flogin.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTableManager.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CopyComplete
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\refint\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ án 5-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\ref\QLQUANCF.dll
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAccountProfile.resources
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAdmin.resources
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fForget.resources
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.flogin.resources
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTableManager.resources
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.Properties.Resources.resources
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfo.cs
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\refint\QLQUANCF.dll
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.exe
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll.config
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.deps.json
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.runtimeconfig.json
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CopyComplete
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.genruntimeconfig.cache
+C:\Users\Admin\Desktop\cloneN\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\ref\QLQUANCF.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.exe
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll.config
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.deps.json
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.runtimeconfig.json
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraCharts.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Charts.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.CodeParser.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Data.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.DataAccess.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Images.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Map.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Office.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraReports.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraScheduler.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.SpellChecker.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Spreadsheet.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraTreeMap.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.TreeMap.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Utils.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Utils.v21.2.UI.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraWizard.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraCharts.v21.2.UI.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Mvvm.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Xpo.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraBars.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraDialogs.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraGantt.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraGauges.v21.2.Presets.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraGauges.v21.2.Win.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraGrid.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraLayout.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraMap.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraPdfViewer.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraScheduler.v21.2.Extensions.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraScheduler.v21.2.Reporting.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraScheduler.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraSpellChecker.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraSpreadsheet.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraTreeMap.v21.2.UI.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\DevExpress.Dialogs.v21.2.Core.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAccountProfile.resources
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAdmin.resources
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fCustomer.resources
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fForget.resources
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.flogin.resources
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTableManager.resources
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.Properties.Resources.resources
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfo.cs
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CopyComplete
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\refint\QLQUANCF.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.genruntimeconfig.cache
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\ref\QLQUANCF.dll
+C:\Users\Admin\Desktop\clone_fork_CNPM\DO-AN-11-12\DO_AN_CNPM_Fork\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTimekeeping.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\refint\QLQUANCF.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAccountProfile.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAdmin.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fCustomer.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fForget.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.flogin.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTableManager.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTimekeeping.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.Properties.Resources.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.exe
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll.config
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.deps.json
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.runtimeconfig.json
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CopyComplete
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\ref\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.exe
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll.config
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.deps.json
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.runtimeconfig.json
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAccountProfile.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAdmin.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fCustomer.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fForget.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.flogin.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTableManager.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTimekeeping.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CopyComplete
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\refint\QLQUANCF.dll
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\My workspace\Đồ Án 22-12(full form)\QLQUANCF\QLQUANCF\obj\x86\Debug\net6.0-windows\ref\QLQUANCF.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.exe
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll.config
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.deps.json
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.runtimeconfig.json
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\bin\x86\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAccountProfile.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fAdmin.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fCustomer.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fForget.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.flogin.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTableManager.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.fTimekeeping.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.Properties.Resources.resources
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.csproj.CopyComplete
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\refint\QLQUANCF.dll
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.pdb
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\QLQUANCF.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Công Nghệ Phần Mềm\BaoCaoDoAn\CODE_DOAN_NHOM 1\QLQUANCF\obj\x86\Debug\net6.0-windows\ref\QLQUANCF.dll
